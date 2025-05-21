@@ -6,76 +6,48 @@ HEYO I'm Shanzay, just a girl who flirts with data and with a thing for clean co
 🎓 BS Data Science @ DHA Suffa University  
 🔍 focused on AI, machine learning, and data-driven solutions  
   
-  <!-- Skills Section -->
-  <div style="margin-top: 30px;">
-    <h2 style="color: #2563EB; border-bottom: 2px solid #10B981; display: inline-block; padding-bottom: 5px; margin-bottom: 25px;">
-      🧠 Technical Skills
-    </h2>
-    
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 20px; text-align: left;">
-      <!-- Column 1 -->
-      <div>
-        <h3 style="color: #2563EB; margin-top: 0; display: flex; align-items: center;">
-          <span style="margin-right: 8px;">🔹</span> Languages
-        </h3>
-        <ul style="padding-left: 25px; color: #374151;">
-          <li>Python</li>
-          <li>SQL</li>
-          <li>C</li>
-        </ul>
-        
- <h3 style="color: #2563EB; margin-top: 20px; display: flex; align-items: center;">
-          <span style="margin-right: 8px;">🔹</span> Tools
-        </h3>
-        <ul style="padding-left: 25px; color: #374151;">
-          <li>Git</li>
-          <li>Jupyter Notebook</li>
-          <li>Visual Studio</li>
-          <li>PyCharm</li>
-          <li>IntelliJ</li>
-        </ul>
-      </div>
-      
-      <!-- Column 2 -->
- <div>
-        <h3 style="color: #2563EB; margin-top: 0; display: flex; align-items: center;">
-          <span style="margin-right: 8px;">🔹</span> Libraries
-        </h3>
-        <ul style="padding-left: 25px; color: #374151;">
-          <li>pandas</li>
-          <li>NumPy</li>
-          <li>matplotlib</li>
-          <li>seaborn</li>
-          <li>scikit-learn</li>
-          <li>tensorflow</li>
-          <li>keras</li>
-          <li>nltk</li>
-        </ul>
-      </div>
-      
-      <!-- Column 3 -->
-<div>
-        <h3 style="color: #2563EB; margin-top: 0; display: flex; align-items: center;">
-          <span style="margin-right: 8px;">🔹</span> Specializations
-        </h3>
-        <ul style="padding-left: 25px; color: #374151;">
-          <li>Web Scraping (selenium)</li>
-          <li>Frameworks: flask, react native</li>
-          <li>Databases: firebase, SQL</li>
-        </ul>
-        
- <h3 style="color: #2563EB; margin-top: 20px; display: flex; align-items: center;">
-          <span style="margin-right: 8px;">🔹</span> Soft Skills
-        </h3>
-        <ul style="padding-left: 25px; color: #374151;">
-          <li>Communication</li>
-          <li>Presentation</li>
-          <li>Technical Writing</li>
-        </ul>
-      </div>
-    </div>
-  </div>
-</div>
+  ## 🧠 Skills
+
+<p align="center">
+  <!-- Languages -->
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+
+  <!-- Tools -->
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white"/>
+  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white"/>
+
+  <!-- Libraries -->
+  <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Seaborn-76B900?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NLTK-9ECE21?style=for-the-badge&logoColor=black"/>
+
+  <!-- Web Scraping -->
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white"/>
+
+  <!-- Frameworks -->
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+
+  <!-- Databases -->
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+
+  <!-- Soft Skills -->
+  <img src="https://img.shields.io/badge/Communication-%2300aced?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Presentation-%23FF69B4?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Writing-%23FFA500?style=for-the-badge"/>
+</p>
+
 
           
           
