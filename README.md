@@ -92,29 +92,17 @@ when i’m not buried in code you’ll probably find me:
 - watching conspiracy videos at 2am like it's research  
 - quietly judging poorly structured data like it personally offended me  
 
-## Contact Me
-<div style="text-align: center; font-family: 'Segoe UI', Arial, sans-serif; max-width: 800px; margin: 30px auto; padding: 20px;">
-  <!-- Connect with me section -->
-  <h2 style="color: #2563EB; margin-bottom: 20px;">Connect with me</h2>
-  
-  <div style="display: flex; justify-content: center; gap: 30px; flex-wrap: wrap;">
-    <!-- LinkedIn -->
-    <a href="https://www.linkedin.com/in/shanzay-khan-/" target="_blank" style="text-decoration: none; color: #0A66C2;">
-      <div style="display: flex; align-items: center; padding: 10px 15px; background: #F3F4F6; border-radius: 8px; transition: all 0.3s ease;" 
-           onmouseover="this.style.background='#E5E7EB'" onmouseout="this.style.background='#F3F4F6'">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="24" style="margin-right: 10px;">
-        LinkedIn
-      </div>
-    </a>
-     <a href="mailto:shanzayk1241@gmail.com" style="text-decoration: none; color: #EA4335;">
-      <div style="display: flex; align-items: center; padding: 10px 15px; background: #F3F4F6; border-radius: 8px; transition: all 0.3s ease;" 
-           onmouseover="this.style.background='#E5E7EB'" onmouseout="this.style.background='#F3F4F6'">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/google/google-original.svg" width="24" style="margin-right: 10px;">
-        Gmail
-      </div>
-    </a>
-  </div>
-</div>
+## 📫 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/shanzay-khan-/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="shanzayk1241@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
           
           
 <!--
