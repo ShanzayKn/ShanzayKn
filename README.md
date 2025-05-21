@@ -75,15 +75,16 @@ HEYO I'm Shanzay, just a girl who flirts with data and with a thing for clean co
 
 - **Byte Bazaar** – working on something for PC hardware buyers and sellers 👀  
 
-## 📚 certifications
+## 📜 Certifications
 
-- Convolutional Neural Networks – DeepLearning.AI  
-- Advanced Learning Algorithms – Coursera  
-- Supervised ML – Coursera  
-- Cleaning Data in Python – DataCamp  
-- Linear Regression & Modeling – Duke University  
+- 🧠 **Convolutional Neural Networks** – DeepLearning.AI  
+- 🧪 **Advanced Learning Algorithms** – Coursera  
+- 🤖 **Supervised Machine Learning** – Coursera  
+- 🧹 **Cleaning Data in Python** – DataCamp  
+- 📈 **Linear Regression & Modeling** – Duke University
+ 
 
-## 🎧 a lil more about me
+## 🎧 A lil more about me
 
 when i’m not buried in code you’ll probably find me:
 
@@ -103,8 +104,21 @@ when i’m not buried in code you’ll probably find me:
   </a>
 </p>
 
-          
-          
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ShanzayKn&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=ShanzayKn&theme=radical" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShanzayKn&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
 <!--
 
 **ShanzayKn/ShanzayKn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
