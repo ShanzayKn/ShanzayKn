@@ -104,7 +104,7 @@ when i’m not buried in code you’ll probably find me:
   </a>
 </p>
 
-
+<!--
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -118,7 +118,7 @@ when i’m not buried in code you’ll probably find me:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShanzayKn&layout=compact&theme=radical" alt="Top Languages" />
 </p>
-
+-->
 <!--
 
 **ShanzayKn/ShanzayKn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
