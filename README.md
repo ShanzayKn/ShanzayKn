@@ -84,15 +84,6 @@ HEYO I'm Shanzay, just a girl who flirts with data and with a thing for clean co
 - 📈 **Linear Regression & Modeling** – Duke University
  
 
-## 🎧 A lil more about me
-
-when i’m not buried in code you’ll probably find me:
-
-- painting stuff i’ll never show anyone  
-- listening to true crime podcasts  
-- watching conspiracy videos at 2am like it's research  
-- quietly judging poorly structured data like it personally offended me  
-
 ## 📫 Connect With Me
 
 <p align="center">
