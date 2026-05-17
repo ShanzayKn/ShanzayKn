@@ -69,11 +69,7 @@ HEYO I'm Shanzay, just a girl who flirts with data and with a thing for clean co
   taught a computer to recognize images. minor flex.
   
 - **Blood Bank Management System**  
-  designed database + queries. lives may or may not depend on this.  
-
-## 🧪 Currently Brewing...
-
-- **Byte Bazaar** – working on something for PC hardware buyers and sellers 👀  
+  designed database + queries. lives may or may not depend on this.   
 
 ## 📜 Certifications
 
