@@ -96,7 +96,7 @@ HEYO I'm Shanzay, I work with AI, convincing it to follow directions
 
 ## 🚀 Community & Leadership
 
-- 👥 **Core-Team ML/AI** @ Google Developers Group (GDG) *(Nov 2024 - Nov 2025)* — Managed technical workshops on deep learning workflows for 50+ developers.
+- 👥 **Core-Team ML/AI** @ Google Developers Group (GDG) *(Nov 2024 - Nov 2025)* — Conducted a hands-on AI workshop as the speaker for 50+ attendees and helped manage community hackathons
 - 🎤 **Core-Team Management & Logistics** @ TEDxClifton *(June 2025 - Sept 2025)* — Handled backend operation logistics for a 300+ attendee regional conference.
 
 ---
