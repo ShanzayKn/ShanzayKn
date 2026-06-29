@@ -1,10 +1,10 @@
 ## Hi there 👋
 
-HEYO I'm Shanzay, I build stuff with AI
+HEYO I'm Shanzay, I work with AI, convincing it to follow directions
 
-🎓 **BS Data Science** @ DHA Suffa University (2021 - 2025)[cite: 1]  
-🔍 **Focused on** AI Agents, Multi-Agent Frameworks, Computer Vision, and scalable data workflows[cite: 1]  
-📍 **Karachi, Pakistan**[cite: 1]  
+🎓 **BS Data Science** @ DHA Suffa University (2021 - 2025)  
+🔍 **Focused on** AI Agents, Multi-Agent Frameworks, Computer Vision, and scalable data workflows  
+📍 **Karachi, Pakistan**  
 
 ---
 
@@ -46,55 +46,58 @@ HEYO I'm Shanzay, I build stuff with AI
 ## 💼 Experience
 
 ### **Junior Machine Learning Engineer** @ Integration Xperts  
-**March 2026 – Present**[cite: 1]  
-- Crafting computer vision pipelines for CCTV-based video analytics[cite: 1].
-- Translating complex business requirements into real-world, scalable AI surveillance solutions[cite: 1].
-- Managing backend data workflows, keeping things organized with centralized global MongoDB collections[cite: 1].
+**March 2026 – Present**  
+- Crafting computer vision solutions for CCTV-based video analytics (footfall, dwell time, and counter interactions)
+- Translating complex business requirements into real-world, scalable AI surveillance solutions.
+- Managing backend data workflows, keeping things organized with centralized global MongoDB collections.
 
 ### **Data Science Young Leader (FLP)** @ Integration Xperts  
-**Sept 2025 – March 2026**[cite: 1]  
-- Built CV pipelines processing live CCTV footage to extract retail metrics (footfall, dwell time, and counter interactions)[cite: 1].
-- Deployed object detection and tracking systems tailored for active retail environments and factory monitoring[cite: 1].
+**Sept 2025 – March 2026**  
+- Built CV pipelines processing live CCTV footage to extract retail metrics (footfall, dwell time, and counter interactions).
+- Deployed object detection and tracking systems tailored for active retail environments and factory monitoring.
 
 ### **Data Science Intern** @ Integration Xperts  
-**June 2025 – Dec 2025**[cite: 1]  
-- Built face recognition systems and conveyor belt object tracking models for industrial use[cite: 1].
-- Spent a lot of time preprocessing and annotating custom local datasets to ensure high accuracy and zero industrial false alarms[cite: 1].
+**June 2025 – Dec 2025**  
+- Built face recognition systems and conveyor belt object tracking models for industrial use.
+- Spent a lot of time preprocessing and annotating custom local datasets to ensure high accuracy and zero industrial false alarms.
 
 ### **AI Intern** @ National Center of AI (NCAI) – NED  
-**July 2024 – Oct 2024**[cite: 1]  
-- Built a computer vision pipeline to estimate cattle weight from images with 86% accuracy (yes, automated cow weight tracking)[cite: 1].
-- Trained a custom CNN to pinpoint critical anatomical keypoints from simple 2D images[cite: 1].
-- Tied it all together with a React Native app frontend and a Flask + Firebase backend[cite: 1].
+**July 2024 – Oct 2024**  
+- Built a computer vision pipeline to estimate cattle weight from images with 86% accuracy (yes, automated cow weight tracking).
+- Trained a custom CNN to pinpoint critical anatomical keypoints from simple 2D images.
+- Tied it all together with a React Native app frontend and a Flask + Firebase backend.
 
 ---
 
 ## 📂 Featured Projects
 
 ### 🤖 **Agentic Deep Research Engine**  
-*Python, LangGraph, FastAPI, React, Google GenAI, Crawl4AI*[cite: 1]
-- Engineered an autonomous multi-agent research pipeline that splits massive user queries into parallelized search tracks[cite: 1].
-- Added an adversarial **Critic Node** and a **Gap Query Planner** to continuously loop, catch missing data, and audit draft integrity[cite: 1].
-- Streamed real-time agent status updates directly to a React frontend using FastAPI[cite: 1].
+*Python, LangGraph, FastAPI, React, Google GenAI, Crawl4AI*
+- Engineered an autonomous multi-agent research pipeline that splits massive user queries into parallelized search tracks.
+- Added an adversarial **Critic Node** and a **Gap Query Planner** to continuously loop, catch missing data, and audit draft integrity.
+- Streamed real-time agent status updates directly to a React frontend using FastAPI.
 
 ### 📄 **Resume Parser**  
-- Extracts data from files using targeted pattern recognition. Built to be faster than standard HR loops[cite: 1].
+- Extracts data from files using targeted pattern recognition. Built to be faster than standard HR loops.
+
+### 📧 **Email Classifier (KNN)**  
+- A smart, lightweight machine learning classifier designed to catch junk better than basic spam folders.
 
 ---
 
 ## 📜 Certifications
 
-- 🧠 **Convolutional Neural Networks** – DeepLearning.AI[cite: 1]
-- 🧪 **Advanced Learning Algorithms** – Coursera[cite: 1]
-- 🤖 **Supervised Machine Learning** – Coursera[cite: 1]
-- 🧹 **Cleaning Data in Python** – DataCamp[cite: 1]
+- 🧠 **Convolutional Neural Networks** – DeepLearning.AI
+- 🧪 **Advanced Learning Algorithms** – Coursera
+- 🤖 **Supervised Machine Learning** – Coursera
+- 🧹 **Cleaning Data in Python** – DataCamp
 
 ---
 
 ## 🚀 Community & Leadership
 
-- 👥 **Core-Team ML/AI** @ Google Developers Group (GDG) *(Nov 2024 - Nov 2025)* — Managed technical workshops on deep learning workflows for 50+ developers[cite: 1].
-- 🎤 **Core-Team Management & Logistics** @ TEDxClifton *(June 2025 - Sept 2025)* — Handled backend operation logistics for a 300+ attendee regional conference[cite: 1].
+- 👥 **Core-Team ML/AI** @ Google Developers Group (GDG) *(Nov 2024 - Nov 2025)* — Managed technical workshops on deep learning workflows for 50+ developers.
+- 🎤 **Core-Team Management & Logistics** @ TEDxClifton *(June 2025 - Sept 2025)* — Handled backend operation logistics for a 300+ attendee regional conference.
 
 ---
 
