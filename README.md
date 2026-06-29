@@ -63,7 +63,7 @@ HEYO I'm Shanzay, I work with AI, convincing it to follow directions
 
 ### **AI Intern** @ National Center of AI (NCAI) – NED  
 **July 2024 – Oct 2024**  
-- Built a computer vision pipeline to estimate cattle weight from images with 86% accuracy (yes. cows.).
+- Built a computer vision pipeline to estimate cattle weight from images with 86% accuracy (yes. cows.)
 - Trained a custom CNN to pinpoint critical anatomical keypoints from simple 2D images.
 - Tied it all together with a React Native app frontend and a Flask + Firebase backend.
 
