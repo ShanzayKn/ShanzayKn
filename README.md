@@ -1,12 +1,14 @@
 ## Hi there 👋
 
-HEYO I'm Shanzay, just a girl who flirts with data and with a thing for clean code, smart models, and projects that actually work
+HEYO I'm Shanzay, I build stuff with AI
 
-🎓 BS Data Science @ DHA Suffa University  
-🔍 focused on AI, machine learning, and data-driven solutions  
-📍 Karachi, Pakistan  
-  
-  ## 🧠 Skills
+🎓 **BS Data Science** @ DHA Suffa University (2021 - 2025)[cite: 1]  
+🔍 **Focused on** AI Agents, Multi-Agent Frameworks, Computer Vision, and scalable data workflows[cite: 1]  
+📍 **Karachi, Pakistan**[cite: 1]  
+
+---
+
+## 🧠 Tech Stack & Skills
 
 <p align="center">
   <!-- Languages -->
@@ -14,71 +16,87 @@ HEYO I'm Shanzay, just a girl who flirts with data and with a thing for clean co
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
 
-  <!-- Tools -->
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white"/>
-  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white"/>
+  <!-- AI & Agents -->
+  <img src="https://img.shields.io/badge/LLMs_%26_Agents-Robot?style=for-the-badge&color=8A2BE2"/>
+  <img src="https://img.shields.io/badge/LangGraph-Orange?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/YOLO_%26_CV-👁️-blue?style=for-the-badge"/>
 
   <!-- Libraries -->
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
   <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Seaborn-76B900?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NLTK-9ECE21?style=for-the-badge&logoColor=black"/>
 
-  <!-- Web Scraping -->
-  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white"/>
-
-  <!-- Frameworks -->
+  <!-- Web Frameworks & Scraping -->
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
   <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Crawl4AI-Green?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white"/>
 
   <!-- Databases -->
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-
-  <!-- Soft Skills -->
-  <img src="https://img.shields.io/badge/Communication-%2300aced?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Presentation-%23FF69B4?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Writing-%23FFA500?style=for-the-badge"/>
 </p>
+
+---
 
 ## 💼 Experience
 
-### AI Intern @ National Center of AI (NCAI) – NED  
-**July 2024 – Oct 2024**  
-- Developed an app that estimates cattle weight from images (yes. cows.)  
-- Built two CNN models for prediction  
-- Frontend in React Native, backend with flask and firebase  
-- Made it simple enough that even non-tech folks can use it 
+### **Junior Machine Learning Engineer** @ Integration Xperts  
+**March 2026 – Present**[cite: 1]  
+- Crafting computer vision pipelines for CCTV-based video analytics[cite: 1].
+- Translating complex business requirements into real-world, scalable AI surveillance solutions[cite: 1].
+- Managing backend data workflows, keeping things organized with centralized global MongoDB collections[cite: 1].
 
-## 📂 Projects
+### **Data Science Young Leader (FLP)** @ Integration Xperts  
+**Sept 2025 – March 2026**[cite: 1]  
+- Built CV pipelines processing live CCTV footage to extract retail metrics (footfall, dwell time, and counter interactions)[cite: 1].
+- Deployed object detection and tracking systems tailored for active retail environments and factory monitoring[cite: 1].
 
-- **Resume Parser**  
-  extracts info from resumes with pattern recognition. faster than HR.
-  
-- **Email Classifier (KNN)**  
-  filters emails using machine learning. smarter than default spam filters.
-  
-- **Image Classifier**  
-  taught a computer to recognize images. minor flex.
-  
-- **Blood Bank Management System**  
-  designed database + queries. lives may or may not depend on this.   
+### **Data Science Intern** @ Integration Xperts  
+**June 2025 – Dec 2025**[cite: 1]  
+- Built face recognition systems and conveyor belt object tracking models for industrial use[cite: 1].
+- Spent a lot of time preprocessing and annotating custom local datasets to ensure high accuracy and zero industrial false alarms[cite: 1].
+
+### **AI Intern** @ National Center of AI (NCAI) – NED  
+**July 2024 – Oct 2024**[cite: 1]  
+- Built a computer vision pipeline to estimate cattle weight from images with 86% accuracy (yes, automated cow weight tracking)[cite: 1].
+- Trained a custom CNN to pinpoint critical anatomical keypoints from simple 2D images[cite: 1].
+- Tied it all together with a React Native app frontend and a Flask + Firebase backend[cite: 1].
+
+---
+
+## 📂 Featured Projects
+
+### 🤖 **Agentic Deep Research Engine**  
+*Python, LangGraph, FastAPI, React, Google GenAI, Crawl4AI*[cite: 1]
+- Engineered an autonomous multi-agent research pipeline that splits massive user queries into parallelized search tracks[cite: 1].
+- Added an adversarial **Critic Node** and a **Gap Query Planner** to continuously loop, catch missing data, and audit draft integrity[cite: 1].
+- Streamed real-time agent status updates directly to a React frontend using FastAPI[cite: 1].
+
+### 📄 **Resume Parser**  
+- Extracts data from files using targeted pattern recognition. Built to be faster than standard HR loops[cite: 1].
+
+---
 
 ## 📜 Certifications
 
-- 🧠 **Convolutional Neural Networks** – DeepLearning.AI  
-- 🧪 **Advanced Learning Algorithms** – Coursera  
-- 🤖 **Supervised Machine Learning** – Coursera  
-- 🧹 **Cleaning Data in Python** – DataCamp  
-- 📈 **Linear Regression & Modeling** – Duke University
- 
+- 🧠 **Convolutional Neural Networks** – DeepLearning.AI[cite: 1]
+- 🧪 **Advanced Learning Algorithms** – Coursera[cite: 1]
+- 🤖 **Supervised Machine Learning** – Coursera[cite: 1]
+- 🧹 **Cleaning Data in Python** – DataCamp[cite: 1]
+
+---
+
+## 🚀 Community & Leadership
+
+- 👥 **Core-Team ML/AI** @ Google Developers Group (GDG) *(Nov 2024 - Nov 2025)* — Managed technical workshops on deep learning workflows for 50+ developers[cite: 1].
+- 🎤 **Core-Team Management & Logistics** @ TEDxClifton *(June 2025 - Sept 2025)* — Handled backend operation logistics for a 300+ attendee regional conference[cite: 1].
+
+---
 
 ## 📫 Connect With Me
 
@@ -86,38 +104,7 @@ HEYO I'm Shanzay, just a girl who flirts with data and with a thing for clean co
   <a href="https://www.linkedin.com/in/shanzay-khan-/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="shanzayk1241@gmail.com">
+  <a href="mailto:shanzayk1241@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
-
-<!--
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ShanzayKn&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ShanzayKn&theme=radical" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShanzayKn&layout=compact&theme=radical" alt="Top Languages" />
-</p>
--->
-<!--
-
-**ShanzayKn/ShanzayKn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
