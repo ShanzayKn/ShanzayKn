@@ -77,11 +77,6 @@ HEYO I'm Shanzay, I work with AI, convincing it to follow directions
 - Added an adversarial **Critic Node** and a **Gap Query Planner** to continuously loop, catch missing data, and audit draft integrity.
 - Streamed real-time agent status updates directly to a React frontend using FastAPI.
 
-### 📄 **Resume Parser**  
-- Extracts data from files using targeted pattern recognition. Built to be faster than standard HR loops.
-
-### 📧 **Email Classifier (KNN)**  
-- A smart, lightweight machine learning classifier designed to catch junk better than basic spam folders.
 
 ---
 
